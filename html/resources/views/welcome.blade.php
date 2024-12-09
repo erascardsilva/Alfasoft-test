@@ -48,7 +48,7 @@
 
             <hr>
             <p class="mb-4 text-secondary">Gerencie seus contatos de forma rápida e eficiente!</p>
-            <p class="mb-4 text-secondary"> Utilizado o Framework Laravel 8.2 e o banco de dados MariaDB 10.5</p>
+            <p class="mb-4 text-secondary"> Utilizado o Framework Laravel 10 e o banco de dados MariaDB 10.5</p>
 
             <a href="{{ route('contacts.index') }}" class="btn btn-primary btn-lg">Entrar no Sistema</a>
         </div>
