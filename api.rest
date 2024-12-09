@@ -1,0 +1,39 @@
+# Listar todos os contatos (GET)
+GET http://localhost:8000/contacts
+Content-Type: application/json
+
+###
+
+# Criar um novo contato (POST)
+POST http://localhost:8000/contacts
+Content-Type: application/json
+
+{
+  "name": "Erasmo Cardoso",
+  "contact": "123456789",
+  "email": "erasmo@example.com"
+}
+
+###
+
+# Mostrar detalhes de um contato específico (GET)
+GET http://localhost:8000/contacts/1
+Content-Type: application/json
+
+###
+
+# Atualizar um contato existente (PUT)
+PUT http://localhost:8000/contacts/1
+Content-Type: application/json
+
+{
+  "name": "Erasmo Atualizado",
+  "contact": "987654321",
+  "email": "erasmo.atualizado@example.com"
+}
+
+###
+
+# Deletar um contato (DELETE)
+DELETE http://localhost:8000/contacts/1
+Content-Type: application/json
