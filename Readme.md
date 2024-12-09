@@ -88,8 +88,11 @@ A aplicação estará disponível em http://localhost:8000. Acesse este link no 
     web.php                    # Pagina Inicial
 
 ```    
+5. ***Acessos Funcional***
+https://erasmocsilva-lv.recruitment.alfasoft.pt/
 
-5. ***Telas***
+
+7. ***Telas***
 
 <img width = "1000px" src="https://github.com/user-attachments/assets/5b565b8c-95be-4ce4-b037-b4d26c9b7c15">
 
