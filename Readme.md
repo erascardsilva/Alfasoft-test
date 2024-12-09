@@ -91,3 +91,16 @@ A aplicação estará disponível em http://localhost:8000. Acesse este link no 
 
 5. ***Telas***
 
+<img width = "1000px" src="https://github.com/user-attachments/assets/5b565b8c-95be-4ce4-b037-b4d26c9b7c15">
+
+<img width = "1000px" src="https://github.com/user-attachments/assets/6faaa50b-2079-493c-beb5-de9cf5544883">
+
+<img width = "1000px" src="https://github.com/user-attachments/assets/68e02f5e-4ec1-4a12-8ded-a33cef9bfa80">
+
+<img width = "1000px" src="https://github.com/user-attachments/assets/a4f8da3d-a54e-4b48-92a5-7a6238de267b">
+
+
+
+
+
+
